@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+joblib
+transformers
+sentence-transformers
+torch
+speechrecognition
+pydantic
+numpy
